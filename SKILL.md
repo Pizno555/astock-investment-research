@@ -1,6 +1,6 @@
 ---
 name: astock-investment-research
-description: Research China A-share companies, stocks, sectors, industry chains, earnings, valuation, catalysts, risks, and market claims with current source-ranked evidence. Use for A股公司研究、板块产业链、消息核验、公告财报、业绩预判、估值、同行、受益标的、股票池和深度报告，以及“公司怎么样”“谁最受益”“这个逻辑真实吗”“股价还能不能买”等需要把证据转化为投资判断的问题。纯行情查询交给数据工具；不用于自选股或模拟交易，也不替代固定规则的 ABC 分类器。
+description: Research China A-stock companies, stocks, sectors, industry chains, earnings, valuation, catalysts, risks, and market claims with current source-ranked evidence. Use for A股公司研究、板块产业链、消息核验、公告财报、业绩预判、估值、同行、受益标的、股票池和深度报告，以及“公司怎么样”“谁最受益”“这个逻辑真实吗”“股价还能不能买”等需要把证据转化为投资判断的问题。纯行情查询交给数据工具；不用于自选股或模拟交易，也不替代固定规则的 ABC 分类器。
 ---
 
 # A股投资研究
