@@ -1,4 +1,4 @@
-# ashare-investment-research
+# astock-investment-research
 
 一个独立的 A 股投资研究 Skill：先用分级证据建立事实底座，再按问题需要完成快速核验、专项分析或完整深度报告。
 
@@ -55,7 +55,7 @@
 把本仓库目录复制到 Codex 的个人 Skills 目录：
 
 ```text
-~/.codex/skills/ashare-investment-research/
+~/.codex/skills/astock-investment-research/
 ```
 
 确保 `SKILL.md` 位于该目录根层，随后重新打开或刷新 Codex。也可以把仓库克隆到上述位置；本项目不要求安装额外脚本或 Python 依赖。
@@ -65,15 +65,15 @@
 可显式调用：
 
 ```text
-使用 $ashare-investment-research 核验“某公司拿到海外大单”是否属实。
+使用 $astock-investment-research 核验“某公司拿到海外大单”是否属实。
 ```
 
 ```text
-使用 $ashare-investment-research，只分析某银行当前估值，不要写完整报告。
+使用 $astock-investment-research，只分析某银行当前估值，不要写完整报告。
 ```
 
 ```text
-使用 $ashare-investment-research，为某公司写一份完整深度投资报告，数据截至今天。
+使用 $astock-investment-research，为某公司写一份完整深度投资报告，数据截至今天。
 ```
 
 也可直接提出符合触发范围的 A 股研究问题。建议提供公司名和证券代码，并说明希望的时间点；如有待核验的链接、截图或研报摘要，也可一并提供。
@@ -93,7 +93,7 @@
 ## 文件结构
 
 ```text
-ashare-investment-research/
+astock-investment-research/
 ├── .gitattributes
 ├── SKILL.md
 ├── README.md
