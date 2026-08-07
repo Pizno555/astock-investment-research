@@ -1,4 +1,4 @@
 interface:
-  display_name: "A股投资研究"
+  display_name: "ashare-investment-research"
   short_description: "用分级证据完成核验、专项分析与A股投资报告"
   default_prompt: "使用 $ashare-investment-research 按合适深度研究这只A股，并标注证据等级、数据日期与推翻条件。"
