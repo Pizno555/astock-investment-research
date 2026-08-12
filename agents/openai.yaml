@@ -1,7 +1,8 @@
 interface:
   display_name: "A股投资研究"
-  short_description: "用分级证据完成核验、专项分析与A股投资报告"
-  default_prompt: "使用 $astock-investment-research 按合适深度研究这只A股，并标注证据等级、数据日期与推翻条件。"
+  short_description: "用分级证据完成核验、专项研究与A股投资报告"
+  default_prompt: "使用 $astock-investment-research 研究这只A股；可指定快速核验、专项研究或完整深度报告，未指定时自动选择最小充分深度。"
+
 
 # 如果 Skill 只希望在点名时调用
 policy:
