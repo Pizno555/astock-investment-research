@@ -13,7 +13,7 @@ description: Research China A-stock companies, stocks, sectors, industry chains,
 
 ## 选择研究深度与输出篇幅
 
-本 Skill 仅在显式调用 `$astock-investment-research` 后路由；正式档位统一为：
+显式调用时需先 `$astock-investment-research` 后路由；隐式不用。正式档位统一为：
 
 | 档位 | 适用问题 | 执行边界 |
 |---|---|---|
