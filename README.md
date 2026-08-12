@@ -8,7 +8,10 @@
 
 ## 怎么使用
 
-本 Skill 采用显式调用。可以通过修改 openai.yaml 中参数改为隐式（默认调用）。
+### 通过修改 openai.yaml 中参数改为显示调用/隐式调用
+
+#### 显示调用
+
 请先输入 `$astock-investment-research`，再写研究问题：
 
 ```text
@@ -18,6 +21,10 @@ $astock-investment-research 完整深度报告：按十部分框架分析中微�
 ```
 
 如果已显式调用 Skill、但没有指定档位，Skill 会自动选择最小充分研究深度。未显式调用时，本 Skill 不参与自动路由。
+
+#### 隐式调用
+
+不再需要 $astock-investment-research 才能使用本skill。
 
 ## 功能
 
