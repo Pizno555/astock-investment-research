@@ -8,7 +8,8 @@
 
 ## 怎么使用
 
-本 Skill 采用显式调用。请先输入 `$astock-investment-research`，再写研究问题：
+本 Skill 采用显式调用。可以通过修改 openai.yaml 中参数改为隐式（默认调用）。
+请先输入 `$astock-investment-research`，再写研究问题：
 
 ```text
 $astock-investment-research 快速核验：这条消息是真的吗？
